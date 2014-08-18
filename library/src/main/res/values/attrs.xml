@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgressBarView">
+        <attr name="ProgressColor" format="color" />
+        <attr name="BackgroundColor" format="color" />
+        <attr name="EndPointColor" format="color" />
+        <attr name="TextColor" format="color" />
+   </declare-styleable>
+
+</resources>
